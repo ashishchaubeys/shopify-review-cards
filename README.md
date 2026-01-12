@@ -2,5 +2,5 @@
 This is the cards slider for review 
 
 
-![demo](Swiperdemo-Review-Slider.gif)
+![demo](initial_structure/Swiperdemo-Review-Slider.gif)
 
